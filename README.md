@@ -20,7 +20,7 @@ It is developed in Python (interpreter version 3.6) with the use of Tensorflow a
 1. Clone the project from: https://github.com/gdimitriou/cnn-covid-19.git
 2. Import it to your favorite IDE
 3. Download the dependencies
-4. Run the program
+4. Run the CnnCovid19.py
 
 # Expecting output:
 1. Console output:
